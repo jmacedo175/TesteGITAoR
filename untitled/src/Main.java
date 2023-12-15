@@ -15,6 +15,7 @@ public class Main {
 
             System.out.println("HELLO WORLD!");
             System.out.println("TESTE");
+            System.out.println("TESTE 123 😂");
         }
     }
 }
